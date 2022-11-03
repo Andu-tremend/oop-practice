@@ -1,0 +1,187 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Travolta",
+      "isOnline": false,
+      "id": 4,
+      "otherData": {
+        "category": "normal user",
+        "interests": [
+          {
+            "type": "movies",
+            "interested": true
+          },
+          {
+            "type": "entertainment",
+            "interested": true
+          },
+          {
+            "type": "something Else",
+            "interested": false
+          },
+          {
+            "type": "Music",
+            "interested": true
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Marcel",
+      "lastName": "Cecererece",
+      "isOnline": true,
+      "id": 5
+    },
+    {
+      "firstName": "John",
+      "lastName": "Travolta",
+      "isOnline": true,
+      "id": 6
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Bravo",
+      "isOnline": true,
+      "otherData": {
+        "category": "premium user",
+        "interests": [
+          {
+            "type": "movies",
+            "interested": false
+          },
+          {
+            "type": "food",
+            "interested": false
+          },
+          {
+            "type": "entertainment",
+            "interested": false
+          },
+          {
+            "type": "something Else",
+            "interested": false
+          },
+          {
+            "type": "Music",
+            "interested": false
+          }
+        ]
+      },
+      "id": 7
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Cash",
+      "isOnline": true,
+      "otherData": {
+        "category": "normal user",
+        "interests": [
+          {
+            "type": "movies",
+            "interested": true
+          },
+          {
+            "type": "food",
+            "interested": true
+          }
+        ]
+      },
+      "id": 8
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Am nevoie de ceva cu A",
+      "isOnline": true,
+      "otherData": {
+        "category": "premium user",
+        "interests": [
+          {
+            "somethig": 2,
+            "somethingValidated": true
+          },
+          {
+            "somethingElse": "a string ",
+            "somethingValidated": false
+          }
+        ]
+      },
+      "id": 9
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Cash",
+      "isOnline": true,
+      "otherData": {
+        "category": "normal user",
+        "interests": [
+          {
+            "type": "movies",
+            "interested": true
+          },
+          {
+            "type": "food",
+            "interested": true
+          }
+        ]
+      },
+      "id": 8
+    },
+    {
+      "firstName": "Johny",
+      "lastName": "Cash",
+      "isOnline": true,
+      "otherData": {
+        "category": "premium user",
+        "interests": [
+          {
+            "somethig": 2,
+            "somethingValidated": true
+          },
+          {
+            "somethingElse": "a string ",
+            "somethingValidated": false
+          }
+        ]
+      },
+      "id": 10
+    },
+    {
+      "fullName": "Johny TEST",
+      "status": "Online",
+      "category": "premium user",
+      "userInterests": [],
+      "id": 11
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Garfield",
+      "isOnline": true,
+      "otherData": {
+        "category": "basic user",
+        "interests": [
+          {
+            "somethig": 2,
+            "somethingValidated": true
+          },
+          {
+            "somethingElse": "a string ",
+            "somethingValidated": false
+          }
+        ]
+      },
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "firstName": "John",
+      "lastName": "Cena",
+      "isOnline": false,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/whatwg-fetch": "^0.0.33",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "tsconfig.json": "^1.0.11"
+  }
+}

@@ -1,0 +1,10 @@
+1. Mandatory - un client, 
+            -abstract repository 
+
+
+2. Interfata pentru queryparams {
+  item, 
+  sort type,
+  page,
+  ..
+}
